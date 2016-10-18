@@ -1,0 +1,7 @@
+Sat, 08 Oct 2016 15:09:56 - INFO - /Users/indiana/python-test/mylog.txt
+Sat, 08 Oct 2016 15:09:56 - INFO - The directory has changed.
+Sat, 08 Oct 2016 15:09:56 - INFO - Argument is missing.
+Sat, 08 Oct 2016 15:21:23 - INFO - The operating system is: Darwin
+Sat, 08 Oct 2016 15:21:23 - INFO - /Users/indiana/python-test/mylog.txt
+Sat, 08 Oct 2016 15:21:23 - INFO - The directory has changed.
+Sat, 08 Oct 2016 15:21:23 - INFO - Argument is missing.
